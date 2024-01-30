@@ -45,7 +45,7 @@ const DAJOUR = {
       id: "github",
       icon: "github",
       title: "GitHub",
-      link: "https://github.com/melodyxpot"
+      link: "https://github.com/bee1130"
     },
     {
       id: "linkedin",
