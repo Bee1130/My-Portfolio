@@ -109,7 +109,7 @@ const DAJOUR = {
   resume: {
     educations: [
       {
-        school: "Fresno Pacific University",
+        school: "University of California",
         date: "2017 - 2021",
         title: "Bachelor's Degree"
       }
