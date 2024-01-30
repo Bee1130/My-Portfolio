@@ -8,7 +8,7 @@ const DAJOUR = {
   banner:
     "https://png.pngtree.com/thumb_back/fh260/back_our/20190628/ourmid/pngtree-band-concert-background-image_264964.jpg",
   description:
-    "Dajour is Full Stack Developer | Project Manager. He has an experience with AI chatbot, image generatoin, web3, nft marketplaces and so son",
+    "Eric is Full Stack Developer | Project Manager. He has an experience with AI chatbot, image generatoin, web3, nft marketplaces and so son",
   role: "Full Stack Developer & Project Manager",
   summary: "",
   skills: [
