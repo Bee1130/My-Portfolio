@@ -1,7 +1,7 @@
 const DAJOUR = {
   name: {
-    firstName: "Dajour",
-    lastName: "Walker"
+    firstName: "Eric",
+    lastName: "Orozco"
   },
   avatar:
     "https://lh3.googleusercontent.com/a/ACg8ocJWPJnDhV3ygj0MDwT2Rbp2yiWagUDvJrI9U8ZvHtYcvg=s288-c-no",
